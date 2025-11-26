@@ -1,0 +1,133 @@
+/* 
+Theme Name: Studio Kelly
+Version: 1.0
+Author: Sun Micro Solutions
+Author URI: http://www.sunmicrosolutions.com
+*/
+
+/* Resize
+--------------------------------------------- */
+
+/*.col-1 {width: 8.33333333%;}
+.col-2 {width: 16.66666667%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33333333%;}
+.col-5 {width: 41.66666667%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33333333%;}
+.col-8 {width: 66.66666667%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33333333%;}
+.col-11 {width: 91.66666667%;}
+.col-12 {width: 100%;}*/
+
+.left { float: left; }
+.right { float: right; }
+.tx-left { text-align: left; }
+.tx-center { text-align: center; }
+.tx-right { text-align: right; }
+
+.tx-red { color: red; }
+.tx-green { color: #6C9D1F; }
+.tx-pink { color: #DE127A; }
+.tx-brown { color: #720606; }
+
+.row { clear: both; float: none; width: 100%; display: table; }
+
+.s1, .s2, .s3, .s4, .s5, .s6, .s7, .s8, .s9, .s10, .s11, .s12, 
+.m1, .m2, .m3, .m4, .m5, .m6, .m7, .m8, .m9, .m10, .m11, .m12, 
+.l1, .l2, .l3, .l4, .l5, .l6, .l7, .l8, .l9, .l10, .l11, .l12, 
+.x1, .x2, .x3, .x4, .x5, .x6, .x7, .x8, .x9, .x10, .x11, .x12 { float: left; min-height: 1px; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; display: table-cell; }
+
+.row-p { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; max-width: 1350px; position: relative; margin: 0px auto; padding: 20px; }
+
+.s0 {width: 0%; overflow: hidden;}
+.s1 {width: 8.33333333%;}
+.s2 {width: 16.66666667%;}
+.s3 {width: 25%;}
+.s4 {width: 33.33333333%;}
+.s5 {width: 41.66666667%;}
+.s6 {width: 50%;}
+.s7 {width: 58.33333333%;}
+.s8 {width: 66.66666667%;}
+.s9 {width: 75%;}
+.s10 {width: 83.33333333%;}
+.s11 {width: 91.66666667%;}
+.s12 {width: 100%;}
+.s00 {width: auto;}
+
+@media (min-width: 768px) {
+	.m0 {width: 0%; overflow: hidden;}
+	.m1 {width: 8.33333333%;}
+	.m2 {width: 16.66666667%;}
+	.m3 {width: 25%;}
+	.m4 {width: 33.33333333%;}
+	.m5 {width: 41.66666667%;}
+	.m6 {width: 50%;}
+	.m7 {width: 58.33333333%;}
+	.m8 {width: 66.66666667%;}
+	.m9 {width: 75%;}
+	.m10 {width: 83.33333333%;}
+	.m11 {width: 91.66666667%;}
+	.m12 {width: 100%;}
+	.m00 {width: auto;}
+
+	.row-p { padding: 25px; }
+	.hide-m { display: none !important; }
+}
+
+@media (min-width: 992px) {
+	.l0 {width: 0%; overflow: hidden;}
+	.l1 {width: 8.33333333%;}
+	.l2 {width: 16.66666667%;}
+	.l3 {width: 25%;}
+	.l4 {width: 33.33333333%;}
+	.l5 {width: 41.66666667%;}
+	.l6 {width: 50%;}
+	.l7 {width: 58.33333333%;}
+	.l8 {width: 66.66666667%;}
+	.l9 {width: 75%;}
+	.l10 {width: 83.33333333%;}
+	.l11 {width: 91.66666667%;}
+	.l12 {width: 100%;}
+	.l00 {width: auto;}
+
+	.row-p { padding: 30px; }
+	.hide-l { display: none !important; }
+}
+
+@media (min-width: 1200px) {
+	.x0 {width: 0%; overflow: hidden;}
+	.x1 {width: 8.33333333%;}
+	.x2 {width: 16.66666667%;}
+	.x3 {width: 25%;}
+	.x4 {width: 33.33333333%;}
+	.x5 {width: 41.66666667%;}
+	.x6 {width: 50%;}
+	.x7 {width: 58.33333333%;}
+	.x8 {width: 66.66666667%;}
+	.x9 {width: 75%;}
+	.x10 {width: 83.33333333%;}
+	.x11 {width: 91.66666667%;}
+	.x12 {width: 100%;}
+	.x00 {width: auto;}
+
+	.row-p { padding: 35px; }
+	.hide-x { display: none !important; }
+}
+
+
+.m-l-25 { margin-left: 25px !important; }
+.m-r-25 { margin-left: 25px !important; }
+.m-l-50 { margin-left: 50px !important; }
+.p-5 { padding: 5px; }
+.p-10 { padding: 10px; }
+.p-20 { padding: 20px; }
+.p-25 { padding: 25px; }
+.p-t-0 { padding-top: 0px; }
+.p-t-10 { padding-top: 10px; }
+.p-t-20 { padding-top: 20px; }
+.p-t-50 { padding-top: 50px; }
+.p-b-10 { padding-bottom: 10px; }
+.p-b-20 { padding-bottom: 25px; }
+

@@ -1,0 +1,232 @@
+Uri: https://studiokelly.in/
+File Name: C:\Downloaded Web Sites\studiokelly.in\index.htm
+Content Type: text/html
+
+Uri: https://studiokelly.in/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\studiokelly.in\apple-touch-icon.png.html
+Content Type: text/html
+
+Uri: https://studiokelly.in/best-wedding-photo-studio-delhi-india
+File Name: C:\Downloaded Web Sites\studiokelly.in\best-wedding-photo-studio-delhi-india.html
+Content Type: text/html
+
+Uri: https://studiokelly.in/best-wedding-photographers-delhi-india
+File Name: C:\Downloaded Web Sites\studiokelly.in\best-wedding-photographers-delhi-india.html
+Content Type: text/html
+
+Uri: https://studiokelly.in/candid-wedding-photographers-delhi-india
+File Name: C:\Downloaded Web Sites\studiokelly.in\candid-wedding-photographers-delhi-india.html
+Content Type: text/html
+
+Uri: https://studiokelly.in/css/font-awesome.css
+File Name: C:\Downloaded Web Sites\studiokelly.in\css\font-awesome.css
+Content Type: text/css
+
+Uri: https://studiokelly.in/css/justifiedGallery.css
+File Name: C:\Downloaded Web Sites\studiokelly.in\css\justifiedGallery.css
+Content Type: text/css
+
+Uri: https://studiokelly.in/css/lightgallery.css
+File Name: C:\Downloaded Web Sites\studiokelly.in\css\lightgallery.css
+Content Type: text/css
+
+Uri: https://studiokelly.in/css/resize.css
+File Name: C:\Downloaded Web Sites\studiokelly.in\css\resize.css
+Content Type: text/css
+
+Uri: https://studiokelly.in/css/revolution/settings.css
+File Name: C:\Downloaded Web Sites\studiokelly.in\css\revolution\settings.css
+Content Type: text/css
+
+Uri: https://studiokelly.in/css/style.css
+File Name: C:\Downloaded Web Sites\studiokelly.in\css\style.css
+Content Type: text/css
+
+Uri: https://studiokelly.in/css/style.css?v1
+File Name: C:\Downloaded Web Sites\studiokelly.in\css\style-1.css
+Content Type: text/css
+
+Uri: https://studiokelly.in/favicon.ico
+File Name: C:\Downloaded Web Sites\studiokelly.in\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://studiokelly.in/images/about_banner.jpg
+File Name: C:\Downloaded Web Sites\studiokelly.in\images\about_banner.jpg
+Content Type: image/jpeg
+
+Uri: https://studiokelly.in/images/cinematography_banner.jpg
+File Name: C:\Downloaded Web Sites\studiokelly.in\images\cinematography_banner.jpg
+Content Type: image/jpeg
+
+Uri: https://studiokelly.in/images/gallery/1469782848-1600.jpg
+File Name: C:\Downloaded Web Sites\studiokelly.in\images\gallery\1469782848-1600.jpg
+Content Type: image/jpeg
+
+Uri: https://studiokelly.in/images/gallery/1487767976-1600.jpg
+File Name: C:\Downloaded Web Sites\studiokelly.in\images\gallery\1487767976-1600.jpg
+Content Type: image/jpeg
+
+Uri: https://studiokelly.in/images/gallery/1487767979-1600.jpg
+File Name: C:\Downloaded Web Sites\studiokelly.in\images\gallery\1487767979-1600.jpg
+Content Type: image/jpeg
+
+Uri: https://studiokelly.in/images/gallery/1487767981-1600.jpg
+File Name: C:\Downloaded Web Sites\studiokelly.in\images\gallery\1487767981-1600.jpg
+Content Type: image/jpeg
+
+Uri: https://studiokelly.in/images/gallery/1557500203-1600.jpg
+File Name: C:\Downloaded Web Sites\studiokelly.in\images\gallery\1557500203-1600.jpg
+Content Type: image/jpeg
+
+Uri: https://studiokelly.in/images/gallery/1557500306-1600.jpg
+File Name: C:\Downloaded Web Sites\studiokelly.in\images\gallery\1557500306-1600.jpg
+Content Type: image/jpeg
+
+Uri: https://studiokelly.in/images/gallery/1557500584-1600.jpg
+File Name: C:\Downloaded Web Sites\studiokelly.in\images\gallery\1557500584-1600.jpg
+Content Type: image/jpeg
+
+Uri: https://studiokelly.in/images/gallery/1557500606-1600.jpg
+File Name: C:\Downloaded Web Sites\studiokelly.in\images\gallery\1557500606-1600.jpg
+Content Type: image/jpeg
+
+Uri: https://studiokelly.in/images/gallery/1557500658-1600.jpg
+File Name: C:\Downloaded Web Sites\studiokelly.in\images\gallery\1557500658-1600.jpg
+Content Type: image/jpeg
+
+Uri: https://studiokelly.in/images/gallery/1557743840-1600.jpg
+File Name: C:\Downloaded Web Sites\studiokelly.in\images\gallery\1557743840-1600.jpg
+Content Type: image/jpeg
+
+Uri: https://studiokelly.in/images/gallery/1557743871-1600.jpg
+File Name: C:\Downloaded Web Sites\studiokelly.in\images\gallery\1557743871-1600.jpg
+Content Type: image/jpeg
+
+Uri: https://studiokelly.in/images/gallery/1557743895-1600.jpg
+File Name: C:\Downloaded Web Sites\studiokelly.in\images\gallery\1557743895-1600.jpg
+Content Type: image/jpeg
+
+Uri: https://studiokelly.in/images/gallery/1557994392-1600.jpg
+File Name: C:\Downloaded Web Sites\studiokelly.in\images\gallery\1557994392-1600.jpg
+Content Type: image/jpeg
+
+Uri: https://studiokelly.in/images/gallery/1557994414-1600.jpg
+File Name: C:\Downloaded Web Sites\studiokelly.in\images\gallery\1557994414-1600.jpg
+Content Type: image/jpeg
+
+Uri: https://studiokelly.in/images/gallery/1557994438-1600.jpg
+File Name: C:\Downloaded Web Sites\studiokelly.in\images\gallery\1557994438-1600.jpg
+Content Type: image/jpeg
+
+Uri: https://studiokelly.in/images/gallery/1557994458-1600.jpg
+File Name: C:\Downloaded Web Sites\studiokelly.in\images\gallery\1557994458-1600.jpg
+Content Type: image/jpeg
+
+Uri: https://studiokelly.in/images/gallery/1557994513-1600.jpg
+File Name: C:\Downloaded Web Sites\studiokelly.in\images\gallery\1557994513-1600.jpg
+Content Type: image/jpeg
+
+Uri: https://studiokelly.in/images/gallery/1558449820-1600.jpg
+File Name: C:\Downloaded Web Sites\studiokelly.in\images\gallery\1558449820-1600.jpg
+Content Type: image/jpeg
+
+Uri: https://studiokelly.in/images/gallery/1558449873-1600.jpg
+File Name: C:\Downloaded Web Sites\studiokelly.in\images\gallery\1558449873-1600.jpg
+Content Type: image/jpeg
+
+Uri: https://studiokelly.in/images/gallery/1558449892-1600.jpg
+File Name: C:\Downloaded Web Sites\studiokelly.in\images\gallery\1558449892-1600.jpg
+Content Type: image/jpeg
+
+Uri: https://studiokelly.in/images/gallery/1558449921-1600.jpg
+File Name: C:\Downloaded Web Sites\studiokelly.in\images\gallery\1558449921-1600.jpg
+Content Type: image/jpeg
+
+Uri: https://studiokelly.in/images/gallery/1588651913-1600.jpg
+File Name: C:\Downloaded Web Sites\studiokelly.in\images\gallery\1588651913-1600.jpg
+Content Type: image/jpeg
+
+Uri: https://studiokelly.in/images/gallery/1597735581-1600.jpg
+File Name: C:\Downloaded Web Sites\studiokelly.in\images\gallery\1597735581-1600.jpg
+Content Type: image/jpeg
+
+Uri: https://studiokelly.in/images/gallery/1600411976-1600.jpg
+File Name: C:\Downloaded Web Sites\studiokelly.in\images\gallery\1600411976-1600.jpg
+Content Type: image/jpeg
+
+Uri: https://studiokelly.in/images/gallery/1600412349-1600.jpg
+File Name: C:\Downloaded Web Sites\studiokelly.in\images\gallery\1600412349-1600.jpg
+Content Type: image/jpeg
+
+Uri: https://studiokelly.in/images/gallery/1600412350-1600.jpg
+File Name: C:\Downloaded Web Sites\studiokelly.in\images\gallery\1600412350-1600.jpg
+Content Type: image/jpeg
+
+Uri: https://studiokelly.in/images/media/1540464356.jpg
+File Name: C:\Downloaded Web Sites\studiokelly.in\images\media\1540464356.jpg
+Content Type: image/jpeg
+
+Uri: https://studiokelly.in/images/media/1591019109.jpeg
+File Name: C:\Downloaded Web Sites\studiokelly.in\images\media\1591019109.jpeg
+Content Type: image/jpeg
+
+Uri: https://studiokelly.in/images/testimonial/cover/1475480276.jpg
+File Name: C:\Downloaded Web Sites\studiokelly.in\images\testimonial\cover\1475480276.jpg
+Content Type: image/jpeg
+
+Uri: https://studiokelly.in/images/testimonial/cover/1475480369.jpg
+File Name: C:\Downloaded Web Sites\studiokelly.in\images\testimonial\cover\1475480369.jpg
+Content Type: image/jpeg
+
+Uri: https://studiokelly.in/images/testimonial/cover/1475480467.jpg
+File Name: C:\Downloaded Web Sites\studiokelly.in\images\testimonial\cover\1475480467.jpg
+Content Type: image/jpeg
+
+Uri: https://studiokelly.in/images/testimonial_banner.jpg
+File Name: C:\Downloaded Web Sites\studiokelly.in\images\testimonial_banner.jpg
+Content Type: image/jpeg
+
+Uri: https://studiokelly.in/js/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\studiokelly.in\js\apple-touch-icon.png.html
+Content Type: text/html
+
+Uri: https://studiokelly.in/js/favicon.ico
+File Name: C:\Downloaded Web Sites\studiokelly.in\js\favicon.ico.html
+Content Type: text/html
+
+Uri: https://studiokelly.in/js/masonry.pkgd.min.js
+File Name: C:\Downloaded Web Sites\studiokelly.in\js\masonry.pkgd.min.js.html
+Content Type: text/html
+
+Uri: https://studiokelly.in/pre-wedding-photographers-delhi-india
+File Name: C:\Downloaded Web Sites\studiokelly.in\pre-wedding-photographers-delhi-india.html
+Content Type: text/html
+
+Uri: https://studiokelly.in/pre-wedding-photography-delhi-india
+File Name: C:\Downloaded Web Sites\studiokelly.in\pre-wedding-photography-delhi-india.html
+Content Type: text/html
+
+Uri: https://studiokelly.in/press-releases
+File Name: C:\Downloaded Web Sites\studiokelly.in\press-releases.html
+Content Type: text/html
+
+Uri: https://studiokelly.in/professional-wedding-photographers-delhi-india
+File Name: C:\Downloaded Web Sites\studiokelly.in\professional-wedding-photographers-delhi-india.html
+Content Type: text/html
+
+Uri: https://studiokelly.in/wedding-cinematographers-delhi-india
+File Name: C:\Downloaded Web Sites\studiokelly.in\wedding-cinematographers-delhi-india.html
+Content Type: text/html
+
+Uri: https://studiokelly.in/wedding-photography-testimonials
+File Name: C:\Downloaded Web Sites\studiokelly.in\wedding-photography-testimonials.html
+Content Type: text/html
+
+Uri: https://www.google.co.in/pagead/1p-user-list/1001376964/?value=0&guid=ON&script=0&is_vtc=1&cid=CAQSmQEAwksa0SbPxX-W3ElDp-vzBHa3givtwPiPXq411GomoLSNkbDgiRysBS8TAkjHM2Zotq6RUMMZuGC9RZVgKoMCPj1QFZrtJiRa8T8gn33r9wb7N1TlgndAJKKJhz1SUloBhVXdivBKhd-pHuYu5BmNPMCXXjmdciRfRW_2zZVO51c9iLsTtpvxiLJctYNjQmTJflCEsTfzTZ4&random=2202811461&ipr=y
+File Name: C:\Downloaded Web Sites\studiokelly.in\pagead\1p-user-list\1001376964\index.htm
+Content Type: image/gif
+
+Uri: https://www.googleadservices.com/pagead/conversion.js
+File Name: C:\Downloaded Web Sites\studiokelly.in\pagead\f.txt
+Content Type: text/javascript
+
